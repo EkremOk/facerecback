@@ -4,7 +4,8 @@
   "description": "Back End part of Face regognition project",
   "main": "script.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "node server.js",
+    "start:dev" : "nodemon server.js"
   },
   "author": "Ekrem Okanovic",
   "license": "ISC",
